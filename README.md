@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
+- 👨‍💻 All of my projects are available at [https://github.com/abusayedgit?tab=repositories](https://github.com/abusayedgit?tab=repositories)
+
+- 💬 Ask me about **Django, React, Vue, Angular**
+
 - 📫 How to reach me **devabusayed@gmail.com**
+
+- ⚡ Fun fact **When I'm not busy coding or debugging, I love to indulge in the world of video gaming. It's not just about entertainment; gaming enhances my problem-solving skills and reaction times. In fact, I often draw parallels between overcoming challenges in games and debugging code. It's my unique way of keeping my skills sharp and my mind active!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
